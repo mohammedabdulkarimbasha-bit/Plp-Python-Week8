@@ -1,0 +1,24 @@
+Personal Mini-Toolkit Plan
+
+1. Tools Selected:
+   - Tool 1: Interactive To-Do List (Allows users to view, add, and remove tasks from an active task list).
+   - Tool 2: Number Guessing Game (A game where the user guesses a randomly generated number with conditional hint feedback in a loop).
+   - Tool 3: Simple Tip Calculator (Calculates bill tips and split totals using mathematical operators and decision structures).
+
+2. Tool Descriptions:
+   - To-Do List: Manages a dynamic shopping or task list by letting users view current items, add new items, or delete finished items.
+   - Number Guessing Game: Challenges the user to guess a secret number between 1 and 10, providing higher/lower hints until they succeed.
+   - Simple Tip Calculator: Computes total bills, tip amounts, and split shares based on user input and service rating choices.
+
+3. Exact Menu Text:
+   === Welcome to Your Personal Mini-Toolkit ===
+   1. Interactive To-Do List
+   2. Number Guessing Game
+   3. Simple Tip Calculator
+   4. Quit
+   Enter your choice (1-4): 
+
+4. Concepts Used per Tool:
+   - To-Do List: Lists (mutable), while loops, conditionals, and f-strings.
+   - Number Guessing Game: While loops, conditionals (`if/elif/else`), random module, and f-strings.
+   - Simple Tip Calculator: Conditionals, arithmetic operators, and f-strings.
